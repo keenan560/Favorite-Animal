@@ -1,1 +1,1 @@
-# Favorite-Animal-
+# Favorite-Animal
