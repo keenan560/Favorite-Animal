@@ -1,5 +1,10 @@
 h1, p {
     font-size: 24px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Dokdo', cursive;
     color: brown;
+}
+
+#sleeping {
+    width: 300px;
+    height: 300px;
 }
